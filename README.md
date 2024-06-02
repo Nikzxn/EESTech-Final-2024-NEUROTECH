@@ -9,6 +9,8 @@ Solution team`s NEUROTECH
 - `/online_learning.py` - Neural network with online training
 - `/Documentations.md` - Technical documentation for the project
 - `/GenAI.ipynb` - Notebook with feeding LLM GenAI Model
+- `/Eetec_final_neurotech2.pdf` - Presentation for pitching
+- `/requirements.txt` - Requirements
 
 
 ## Folder /SarajevoHack
