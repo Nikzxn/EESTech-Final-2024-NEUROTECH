@@ -1,1 +1,1 @@
-# eestec_final
+# Eestech_Challenge_Final
