@@ -1,8 +1,6 @@
 # Eestech Challenge Final
 
 Neurotech's solution
-With love from Russia
-
 
 ## Struct
 
