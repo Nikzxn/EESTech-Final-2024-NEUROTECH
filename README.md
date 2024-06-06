@@ -1,6 +1,7 @@
 # Eestech Challenge Final
 
-Solution team`s NEUROTECH
+Neurotech's solution
+With love from Russia
 
 
 ## Struct
